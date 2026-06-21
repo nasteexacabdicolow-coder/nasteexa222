@@ -1,0 +1,43 @@
+body{
+margin: 20px;
+background-color: #eee;
+}
+.Dhammaan{
+border: 5px solid green;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+width: 90%;
+}
+header{
+border: 3px solid yellow;
+background-color: skyblue;
+margin-left: 3px; margin-right: 3px;
+margin-top: 3px;margin-bottom: 3px;
+}
+#tijaabo{
+border: 2px solid black;display: flex;
+margin-left:3px; margin-right:3px;
+}
+nav{border: 2px solid gray;
+margin-right: 5px;
+}
+nav a:hover{
+background-color: red;
+color: black;
+}
+main{
+border: 2px solid blue;
+}
+main img{width:100px; height:100px;float:left;}
+aside{
+border: 2px solid brown;
+margin-left: 5px;
+}
+footer{border: 3px solid orange;
+text-align: center;
+margin-top: 5px;
+margin-bottom: 5px;
+margin-left: 5px;
+margin-right: 5px;
+}
